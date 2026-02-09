@@ -126,7 +126,7 @@ Submit pull requests with improvements
 ## License
 Distributed under the MIT License. See LICENSE for more information.
 
-## Contact
+## Contact :
 X (Twitter): (https://x.com/__thsurya__)
 
 Email: work.suryasnata@gmail.com
