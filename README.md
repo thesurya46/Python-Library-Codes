@@ -123,7 +123,7 @@ Contributions, issues, and feature requests are welcome!
 Open issues for bugs or suggestions
 Submit pull requests with improvements
 
-## License
+## License :
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact :
